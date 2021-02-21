@@ -1,5 +1,4 @@
 Boat Dealer
-https://github.com/CrazTheKing
 
 Recreated from:
 HORSE SHOP FOR REDEM 0.1v by #mrlupo# / #Proky# / #Plouffe#  
@@ -20,7 +19,7 @@ Installation :
 
 Usage : 
 
-1. Go to an Boat Shop in saint denis (https://gyazo.com/dbdbcfca410982f2f3c389996de031bf) Press (E) to open menu, select any boat you would like to buy.
+1. Go to an Boat Shop in saint denis, Press (E) to open menu, select any boat you would like to buy.
 
 (no curret blip for shop, I use redm_blips to create one. (coords found in config file, you may add more)
 
